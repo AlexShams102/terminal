@@ -1,0 +1,9 @@
+#!/bin/bash
+cd f3
+mkdir f1 f2 f3
+cd f3/f1
+touch f1/script{1..3}.txt f2/script{4..5}.json
+mkdir a5 a6 a7
+ls -la
+mv f1/script1.txt a5/script1.txt
+mv f2/script5.json a5/script5.json
