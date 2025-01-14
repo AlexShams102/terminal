@@ -1,9 +1,9 @@
-1
-2
-3
-4
-5
-6
-7
-8
-9
+1 Alex
+2 Elina
+3 Lubov
+4 Nina
+5 Yura
+6 Liliya
+7 Misya
+8 Tusya
+9 Kemal
